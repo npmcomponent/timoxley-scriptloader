@@ -1,25 +1,8 @@
 {
-  "name": "scriptloader",
-  "version": "0.1.1",
+  "name": "timoxley-scriptloader",
   "description": "Absurdly simple on-demand script loader.",
-  "main": "index.js",
-  "directories": {
-    "test": "test"
-  },
-  "keywords": [
-    "browserify",
-    "script"
-  ],
-  "scripts": {
-    "test": ""
-  },
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/timoxley/scriptloader.git"
-  },
-  "author": "Tim Oxley",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/timoxley/scriptloader/issues"
-  }
+  "version": "0.1.1",
+  "keywords": [],
+  "dependencies": {},
+  "license": "MIT"
 }
